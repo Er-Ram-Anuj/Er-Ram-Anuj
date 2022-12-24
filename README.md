@@ -1,6 +1,6 @@
 <h1 align="center">Hi I am Ram Anuj</h1>
 <h3 align="center">A passionate 🤖 Student of Technical Field.</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://github.com/Er-Ram-Anuj/Er-Ram-Anuj/blob/main/Gifs.htm">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-ram-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="er-ram-anuj" /> </p>
 
 - 🔭 I’m currently Studying. **Electronics And Communication Engineering.**
