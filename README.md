@@ -3,7 +3,7 @@
 <h3 align="center">A passionate 🤖 Student of Technical Field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-ram-anuj&label=Profile%20views&color=0e75b6&style=flat" alt="er-ram-anuj" /> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121351615/209450378-0722b761-386d-4853-a75d-dbfa8a6577bc.png">
+<img align="right" alt="coding" width="400" src="https://github.com/Er-Ram-Anuj/Er-Ram-Anuj/blob/main/coder.gif">
 - 🔭 I’m currently Studying. **Electronics And Communication Engineering.**
 
 - 📫 How to reach me **ramanuj7268@gmail.com**
